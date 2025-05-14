@@ -1,0 +1,40 @@
+                    text operation
+    1, document tokenizer function
+    2. avoidance of stop word function
+    3. stem the given words in the document .function
+    4.return the document with is index term
+
+
+                    Constructing index file
+    there are two basic  components have an inverted file
+                                                    1.vocabulary file
+                                                    2.posting file
+                                1.vocabulary file
+                          in this section all word in document collection will stored in Lexicographical  order
+                          A term which appear in vocabulary contains 1.Document frequency
+                                                                     2. Total frequency
+                                                                     3. posting pointer
+                Data Structure of documents , vocabulary , posting file
+         1.documents = {
+            doc_id: document
+         }
+         2.vocabulary ={
+            term_id:{
+                'term': term,
+                'doc_fre': 2,
+                'total_frequency': 3,
+                'pointer' : 'pointer posting ID'
+            }
+         }
+         3.posting = {
+                'term_id':1,
+                'posting':[
+                    {'doc_id': 1, 'term_freq': 1, 'positions': [1]},
+                    {'doc_id': 2, 'term_freq': 3, 'positions': [0, 1, 2]}
+                ]
+
+         }
+
+            - **Document Frequency (DF)**: Count in how many documents a term appears.
+   - **Inverse Document Frequency (IDF)**: Measure how rare a term is across the documents (global importance).
+      - **Formula**:

@@ -1,0 +1,512 @@
+Unit 1
+Introduction to Accounting
+
+
+We live in the information age-a time of communication, and a time when information is a vital resource. In this information era, how we live, whom we associate with, and the opportunities we have all depend on our access to and understanding of information.
+
+The same is true for businesses (businesses are one or more individuals selling products or services for profit). Businesses that have better access to information and that process information more quickly and accurately do the best.
+Global computer networks and telecommunications equipment now allow us to get access to all types of business information.
+
+But to take advantage of these, we need knowledge of information systems.
+
+An information system is the collecting, processing, and reporting of information to decision makers. Understanding and processing information is the core of accounting. 
+
+The kind of information processed in accounting is financial i.e. of a monetary nature.
+Providing information about what businesses own, what they owe, and how they perform is the aim of accounting. Accounting is, an information and measurement system that identifies, records, and communicates relevant, reliable, and comparable information about an organizations (a businesss) economic activities.
+
+Therefore, a study of accounting helps people make better and informed decisions about assessing opportunities, products, investments, and social and community responsibilities.
+
+But the use of accounting information is not limited to accountants or people in business. You can use accounting information in your daily life. You can use accounting information to get a loan for a house or to start a new business.
+The study of accounting, therefore, opens you new and exciting possibilities both in terms of becoming a professional accountant and using accounting information in your daily life.
+
+This course discusses the fundamental principles involved in processing accounting information of business enterprises.
+
+Understanding these fundamental principles is very important because forthcoming courses that you are going to take in accounting will build on these principles.
+
+1.2.Definition, Importance, and Users of Accounting Information
+
+1.2.1.Accounting Defined 
+As a financial information system, accounting is defined as a process of identifying measuring, recording and communicating economic events of an organization (business or non- business) to interested users of the information. 
+
+Lets take a closer look at the activities involved in the process:
+
+1.The first part of the process  identifying  involves selecting those events that are considered evidence of economic activity relevant to a particular organization.  The sale of goods by Hadiya Super Market, the rendering of service by Ethiopian Telecommunications Corporation, the payment of salary by the Commercial Bank of   Ethiopia, and the purchase of Building by Unity University College are examples of economic events.
+
+2.Once identified and measured in Birr and cents, economic events are recorded to provide a permanent history of the financial activities of the organization.  Recording consists of keeping a chronological diary of measured events in an orderly and systematic manner. In recording, economic events are also classified and summarized. (This will be discussed in detail in unit-2)
+3.This identifying and recording activity is of little use unless the information is communicated to interested users.  The information is communicated through the preparation and distribution of accounting reports, the most common of which are called financial statements.
+ 
+A Vital element in communicating economic events is the accountants ability and responsibility to analyze and interpret the reported information.  Analysis involves the use of ratios, percentages, graphs and charts to show the importance of financial trends and relationships.  Interpretation involves explaining to the user the meaning, and limitation of reported data.  The analysis and interpretation part is left for advanced courses in accounting.
+
+As accounting plays an important role in the decision making process of business entities, it is often called the language of business.  As a result, whether you are an economist a marketer, investor, supplier or any other, to be successful, you should be able to speak and be familiar with the basic terms used in the business environment.  
+
+1.2.2Importance of Accounting and Users of Accounting Information
+
+Importance of accounting
+The main purpose of accounting is to provide financial information to be used for decision-making.  For instance, Business executives and managers need the financial information provided by the accounting system to help them plan and control the activities of the business.  Outsiders such as bankers, potential investors, and labour unions and others also need accounting in formation.  
+
+In short the goal of the accounting system is to provide useful information to decision makers.  Thus, accounting is the connecting link between decision makers and business operations.
+
+1.3 Bookkeeping Versus Accounting 
+
+People often fail to understand the difference between accounting and bookkeeping.  Bookkeeping is the process of recording business activities, and keeping the records.  It is the record- making phase of accounting.  The recording of transactions in Bookkeeping tends to be mechanical and repetitive; it is only a small and probably the simplest but important part of accounting.
+
+Accounting, on the other hand, includes the design of an information system that meets users needs.  The major goals of accounting are the analysis, interpretation, and use of information.  Accounting includes system design, budgeting, cost analysis, auditing and tax planning and preparation.  
+
+A person might become a reasonably proficient bookkeeper in a few weeks or months; however, to become a professional accountant requires several years of study and experience.
+
+
+
+
+Users of Accounting Information
+Todays accountants focus on the ultimate needs of those who use accounting information, whether the users are inside or out side the business.  Accounting is not an end by itself.  The information that accounting provides allows users to make reasonable choices among alternative uses of scarce resources in the conduct of business 
+
+The people who use accounting information basically fall in to two categories:
+1.External Users, and
+2.Internal Users
+
+1)External Users: External Users of accounting information are parties, which are not directly involved in running the business enterprise.  These include lenders, shareholders (stock holders), suppliers, employees and their Unions, government (regulatory bodies) and others.  External users rely (depend on) accounting information to help them make better decisions in trying to achieve their goals.
+
+-The area of accounting aimed at serving external users is called Financial Accounting. Its main objective is to provide to external users information through financial statements.
+
+Each external user has its own specified information-need depending up on the decisions to be made. That is to say, all external users do not have the same intentions (objectives) when they use the information.
+
+In the following paragraphs we well try to discuss how some external users use accounting information.
+
+a)  Lenders / Creditors
+
+Creditors lend money or other resources to an organization.  Lenders include banks, mortgage and finance companies.  Lenders look for information to help them assess the ability of borrowers to repay their debts.
+
+
+
+b) Share- holders (Stockholders)
+
+Shareholders have legal control over part or all of a corporation.  When it comes to a corporation, shareholders are not directly involved in the management of the corporation.  However, as owners, they have claims over the properties of the organization.  Financial reports help to answer shareholders questions such as:
+
+-  what is the income of the organization for the current and past periods?
+-  are the properties adequate to meet business plan?
+-  will the business continue to be profitable in the future?
+
+c)  Employees and labour Unions
+
+ Employees and labor unions are interested in judging the fairness of their wages and assessing future job prospects.  They also use accounting reports as evidence to ask for bonuses, when the organization is successful.
+
+d)  Government
+
+The Inland Revenue Authority requires organizations to prepare financial reports, in order to compute taxes.
+
+2)Internal Users: These are persons that are directly involved in managing and operating an organization.  They include managers and other important decision makers.  The internal role of accounting is to provide information to help improve the efficiency and effectiveness of an organization.
+
+The area of accounting aimed at serving the decision-making needs of internal users is called Management Accounting.  Internal users often have access to a lot of private and valuable information. Internal reports aim to answer questions like:
+
+What are manufacturing costs per product?
+Which service activities are most profitable?
+What level of sales is necessary to break even?
+
+
+
+
+1.4 The Accounting profession
+
+If you just joined the accounting profession, you may be wondering what job you will be doing in the future. You probably would apply your expertise in one of three major fields:
+
+Public Accounting
+Private Accounting or
+Not  for  profit Accounting
+
+i) Public accounting 
+In Public Accounting you would offer expert service to the general public in much the same way that a doctor serves patients and a lawyer serves clients.  A major portion of public accounting practice is involved with Auditing.  In this area, a certified Public Accountant (CPA) examines, the financial statements of companies and expresses opinion as to the fairness of presentation.  When presentation is fair, users consider the statements to be reliable. 
+Management consulting is another area of public accounting.  In this case, the accountant consults the management generally about the growth and development of the business enterprise.
+
+ii) Private Accounting
+Instead of working in public accounting, an accountant may be an employee of a business enterprise.  In private accounting, you would be involved in one of the following activities:
+1.Cost Accounting: Determining the cost of producing specific products.
+
+2.Budgeting: Assisting management in quantifying goals concerning revenues, costs of goods sold, and operating expenses.
+
+3. General Accounting: recording daily transactions and preparing financial statements and related information. 
+
+4. Accounting information systems: designing both manual and computerized data processing systems.
+
+5.Tax Accounting: preparing tax returns (-forms to be filled by a company and returned to a taxing authority) and engaging in tax planning for the company.
+
+6.Internal Auditing: reviewing a companys operations to determine compliance with management policies and evaluating efficiency of operations.
+
+iii) Not for Profit Accounting
+
+Like businesses that exist to make a profit, not - for-profit organizations also need sound financial reporting and control.  Donors to such organizations want information about how well the organization has met its objectives and whether continued support is justified. In each of these cases, accounting expertise is highly valued.
+
+
+1.5.Accounting Standards and Concepts
+
+Accounting, as it is true for other disciplines, has got its own principle based standards and practices.  One must be able to understand these standards and practices to understand and prepare financial statements and reports.  The standards and concepts used in accounting are called International Financial Reporting Standards (IFRS). These Standards guide accountants how to record and report business activities.
+
+IFRSs are developed over a long span of years by the accounting profession.  That is, their development is not revolutionary rather evolutionary (1973 G.C - future).  The main purposes of these basic standards are to guide accountants in measuring and reporting financial events of business enterprises.
+
+IFRSs are not like the unchangeable laws of nature found in biology and chemistry.  They can be changed as better methods are developed or as circumstances change.  Generally, it is from research, practice, and pronouncements of professional bodies that evolve.
+
+These standards are designed by IASB (International Accounting Standard Board). This board is found in United Kingdom, London.  It established as aboard in 2001 G.C before that it act as Committee (1973- 2000). 
+The implementation of IFRS has its own assumptions and principles, In this unit, we will discuss basic principles and assumptions of IFRS:  
+
+
+
+               Assumptions, principles and constraints of IFRS based Accounting 
+Assumptions                                        Principles                                               Constraint 
+1.Economic Entity                          1. Measurement                                          1. Cost
+2.Going on concern                         2. Revenue Recognition 
+3.Monetary unit                               3. Expense Recognition  
+4.Periodicity                                     4. Full Disclosure 
+5.Accrual 
+
+1.Economic Entity (Business Entity Concept)
+Accountants frequently refer to a business organization as an accounting or business entity.  A business entity is any business organization, such as a super market, laundry, barberry, or a hotel, which exist as an economic unit.  For accounting purposes, each business enterprise has a separate existence from its owners, creditors, employees, customers and other businesses.
+
+This separate existence of the business enterprise is known as the business entity concept.  Thus, the business entity should have a completely separate set of records and its financial records and reports should refer only about the business enterprises.
+For example,  W/o Muna Mamo has got her own two business enterprises one called Munaye Super Market, and another hotel called Budena Hotel. Each Business would be considered as an independent economic business unit.  The activities of each business are kept separately from each other and from the owners personal records.  Let say W/O Muna bought a house to live in. This house would not be recorded and reported in the records of either the supermarket or the hotel.  The personal saving account she has will not as well be included in the financial reports of either one of the businesses.  She must have to open separate bank accounts for the two businesses.  The super market should not record the payment of salary to employees of the hotel.
+
+2.Going on concern 
+     Business life is unlimited as long as the business stopped by out of control events  
+3.Periodicity: create artificial discontinuity from the unknown life of the business and measure your company performance and position. The longest period is one year 
+
+4.Monetary Unit Assumption
+
+All business activities (events) are recorded in terms of money (-Birr, Dollar, Pound or any other currency).  Of course, information of a non -financial nature can be recorded, but it is only through the recording of dollar (Birr) amounts that the activities of a business can be measured.  Money is the only factor common to all business activities. Therefore, it is the only practical unit of measurement that can produce financial data that can be compared. 
+
+The monetary unit used by a business depends on the country in which it exists.  For example, in Ethiopia the basic unit of measurement is the birr,as is the dollar in the U.S.A, and Pound Sterling in the United Kingdom.
+About the other generally accepted principles please refer your exercise book!!!!  
+5.Accrual Basis: is the only type of accounting base in IFRS. It is event based rather than cash flow. Financial statement element are recognized when they satisfied the concept that element. 
+6.Revenue Recognition Principle: States that revenues should be recognized in accounting period in which a performance obligation is satisfied.
+7.Expense Recognition Principle: States that expenses should be recognized that in the accounting period in which they are incurred.
+8. Measurement Principle (Historical cost or Fair value)
+  To measure its Assets and liability one company may apply Historical cost or Fair value method. Historical cost is original amount paid to acquire something. Fair value is market value. 
+9.Full disclosure Principles: Adequate note should be include about the measurement base and presentation of each element of financial statement. 
+10.Cost constraint: compare cost benefit of financial information 
+
+
+
+
+1.6 Forms of Business Organizations
+
+There are three basic forms of business organizations: sole proprietorships, partnerships, and corporations.  Accountants recognize each form as an economic unit separate form its owners (Business Entity Concept).
+
+In this course, we will begin by the accounting for sole proprietorships because it is the simplest form of accounting.
+1.Sole Proprietorships
+
+A sole proprietorship is a business owned by one person and usually managed by the owner.  No special legal requirements must be met to start a sole proprietorship and usually only a limited investment is required to begin operations.
+
+A sole proprietorship is a separate entity for accounting purposes (Business entity Concept) but it is not a separate legal entity from the owners.  That is, from the legal point of view, the owner and the business are treated as one and the same.  The owner will be held personally responsible for the debts and actions of the business.
+
+For instance, assume Flower Laundry is a sole proprietorship owned by Ato Alemu.  Assume also that the business has borrowed Birr 10,000 from the Commercial Bank of Ethiopia and failed to pay its debts.  In this case, if the Commercial Bank of Ethiopia cant recover the amount it lent from the properties of the company it can go to the extent of selling the owners personal properties.
+
+2.Partnerships
+
+A Partnership is like a sole proprietorship in most ways except that it has more than one owner.  A partnership is not a legal entity separate from the owners but an association that brings together the talents and resources of two or more people.  The owners of a partnership are known as partners.
+
+The partners share the profits and losses of the partnership according to an agreed on formula.  The personal resources of each partner can be called on to pay the obligations of the partnership.  That is, each partner is personally responsible for the debts of the partnership.  From an accounting standpoint, however, a partnership is a business entity separate from the personal activities of the partners.
+
+3.Corporations
+
+A business organized as a separate legal entity with ownership divided into transferable units of capital is called a corporation.  The owners of a corporation are called stockholders or shareholders.  The corporation issues capital stock certificates to each stockholder showing the number of shares (orstock) he or she owns.  The stockholders are free to sell all or part of these shares to other investors at any time. This ease of transfer of ownership adds to the attractiveness of investing in a corporation.  Since a corporation is a separate legal entity, the owners (stockholders) are not personally liable for the debts of the corporation. Their risk of loss is limited to the amount they paid (invested). Because of this limited liability in a corporation shareholders are willing to invest in riskier, but potentially more profitable, activities.
+
+Even though corporations are fewer in number than proprietorships and partnerships, they contribute a lot to the economies of many countries in monetary terms.
+
+1.7 Business Transactions and the Accounting Equation
+
+Business transactions are economic events that should be recorded because they affect the financial position of the business enterprise.  These businesses transactions are the raw materials of accounting reports, as cotton is a raw material for a textile factory.
+
+A transaction can be an exchange (such as the purchase or sale of property, payment or collection of a loan etc.) between two or more parties.  A transaction can also be an event that has the same effect as an exchange transaction but doesnt involve an exchange transaction.  Some examples of non exchange transactions are losses from fire, flood; physical wear and tear on equipment; donation of property and so forth.
+	
+For a given transaction to qualify to be recorded it has:
+1.to be related to the business enterprise
+2.to be measurable in terms of money
+3.to be completed / happened/ action.
+
+(i.e.  it should not be a mere promise or intention; it must be at least partially completed to be recorded)
+
+1.7.1 Assets, Liabilities and Owners Equity
+
+If you have noticed, in any organization you will find properties such as a building, furniture, land, vehicles and the like.  Such properties owned by business enterprises are referred to as Assets. To buy these assets, businesses get money from two sources: investments made by owners or amounts borrowed from creditors.  Therefore, both owners and creditors have a claim over the assets of the business enterprise.  The claims or rights of owners are referred to as Equities.  If the assets owned by a business amount to Birr 50,000 the equities in the assets must also amount to Birr 50,000.  The relationship between the two may be stated in the form of an equation, as follows:
+
+                                      
+                                                        
+
+
+Equity may be subdivided in to two principal types: the rights of creditors and the rights of owners. The rights of creditors represent debts of the business and are called Liabilities. The rights of owners are called Owners Equity (capital).
+
+                                         Assets=equities
+                                Equities      = Liability + Owners equity
+    This equation can be written as:
+                               Assets= liability + Owners Equity
+
+It is customary to place liabilities before Owners equity in the accounting equation because creditors have priority (preferential) rights to the assets. Because of this, the owners have a residual claim over the assets. To help you understand this, assume X company has total assets of Br. 5000, liabilities of Br 2000 and owners equity of Br 3000. If the business is to be closed, the assets of the company will be sold and distributed to the claimants. In accounting, the Owners are given their share after the creditors are given their entire share. For example, assume the assets are sold for Br 4,500. The creditors will be given their share of Br. 2,000 and what ever remained (Br.2,500)is given to the owners. If the assets were sold for Br. 7,000, the creditors would have been given their share of Br. 2,000 and the remaining balance Br 5,000 would have been given to the owners.
+
+
+
+As you can notice, the owners are given whatever is left (it could be greater or less than their share). That is why we said owners have residual claim over the assets of the business whereas creditors are said to have priority clam over the assets as they are paid first
+    
+
+1.7.2 Transactions and the Accounting Equation
+
+All business transactions from the simplest to the complex can be stated in terms of the resulting effect on the three basic elements of the accounting equation. How ever, it is important to remember that each transaction leaves the equation in balance. Assets always equal the sum of liabilities and owners equity.
+
+Lets examine the effects of some of the most common business transactions on the accounting equation. As a means of illustration, suppose Ato Dawit Gemechu establishes a sole proprietorship to be known as Effective Garage, on September1,200x . During September, the business engages in the following transactions: 
+
+Transection (1)- Owners investment 
+Ato Dawit starts business by depositing Br. 100,000in a bank account opened in the name of Effective Garage. The transfer of cash from the owner to the business is on owners investment. The effect of the   transaction is to increase the assets (Cash) on the left side of the accounting equation by Birr 100,000 and to increase owners equity by the same amount.
+
+	Assets	= Liabilities 	+ 	Owners Equity
+  
+        Cash                                         Dawit Gemechu, Capital
+Tran.1  + Br. 100,000                             +Br. 100,000
+Balance   Br. 100,000                             Br. 100,000
+
+At this point, the company has no liabilities; the only party having claim over the assets of the company is the owner.
+
+N.B. the equation relates only to the business enterprise.  Ato Dawits personal assets, such as his home and personal bank account and personal liability are excluded from consideration.  The business must be treated as a separate entity. 
+
+Transaction (2)- Purchase of land for cash
+Effective Garage bought land for Birr 20,000 in cash, to be used as a future site for the business.  This transaction changes the composition of the assets but it doesnt change the total amount of assets.  It has no effect on the liability and owners equity of the business.
+
+			Assets              = Liabilities      +    Owners Equity
+	             Cash  +    Land                                    Dawit Gemechu, Capital.
+Bal.  Birr 100,000                                                       Birr 100,000
+Tran. 2      -20,000        +20,000                                          __-_____    
+Bal.   Birr   80,000  +   Br.20,000  =       ________________ 100,000__   
+                          
+After the above transaction, the company will have less cash but a new asset (land ).  The total assets (cash + Land) amount to Birr 100,000, which is equal to the owners equity.
+
+Transaction (3) -Purchase of Supplies On credit
+Ato Dawit bought office supplies for birr 2,500 on credit, to be used by the business.  Assets can be purchased on credit (on account) basis, where the buyer promises to pay in the future.  This type of transaction is called a purchase on account and it results in a liability to the buyer; the liability created when something is bought on credit is called Accounts Payable.
+
+           	Assets______ 	                             = Liability         +        Owners Equity
+         Cash    +     Supplies     +     Land        Accounts payable       Dawit Gem, Captal
+Bal. Birr 80,000                          Br.20,000                                   Birr 100,000
+Tran(3)       -___  + 2,500                      -          + 2,500                         ___-____   
+Bal.  Br. 80,000      2,500                20,000          2,500                         100,000
+                       Birr 102,500                                              Birr 102,500
+
+Goods that are physical consumed, such as a chalk to a school, gas oil for car, and stationery materials for an office, are called supplies.
+
+Transaction ( 4 )  Payment of liability
+Effective Garage paid Birr. 1,500 to creditors on account.  As you might have noticed, the business bought the supplies in transaction C by promising to pay in the future, and as per the promise made it is now settling its liability.  The effect of this transaction on the accounting equation is as follows:
+
+           	Assets______ 	                             = Liability         +        Owners Equity
+         Cash    +     Supplies     +     Land        Accounts payable       Dawit Gem, Captal
+Bal  Br 80,000     Br. 2,500        Br.20,000     Birr 2,000                    Birr 100,000
+Tran.4   -1,500            -                      -                  -1,500                                -___
+Bal. Br. 78,500     Br.2,500        Br.20,000      Birr 1,000                    Birr 100,000
+                           Birr 101,000                                             Birr 101,000
+
+As a result of the transaction, the total cash decreases by birr 1,500 because cash is paid and the liability of the company also decreases by the same amount.  After the above transaction is completed, the total amount the company has to pay in the future is only birr 1,000.  Please note that the transaction has no effect on the supplies that were bought on credit.
+
+Transaction 5  Selling of service
+ The amount charged to customers for goods or services sold to them is called revenue.  For instance, the amount of money that you pay to a shopkeeper after buying a pair of shoes or something is revenue to the shopkeeper.  Different titles may be used for revenue depending up on the source of revenue.  For example, a service fee for a garage, interest revenue for interest earned by a bank, rent income for revenues that result from renting rooms, fares earned for revenues from a taxi service and others.
+
+During the first month of operation, Effective Garage earned service Fees of Birr 30,000 receiving the amount in cash for the garage services it rendered.
+
+The effect of this transaction is to increase assets (because cash is collected) and to increase owners equity by the same amount as revenue is earned.
+
+           	Assets______ 	                             = Liability         +        Owners Equity
+         Cash    +     Supplies     +     Land        Accounts payable       Dawit Gem, Captal
+Bal  Br 78,500     Br. 2,500        Br.20,000     Birr 1,000                    Birr 100,000
+ 	  30,000            -                      -                        -                                30,000
+Bol. Br. 108,500   Br.2,500        Br.20,000      Birr 1,000                    Birr 130,000
+                           Birr 131,000                                             Birr 131,000
+
+Service can be given for cash or on credit. In this example, the service is given for cash (i.e., the company collects the cash on the spot service was given).  But instead of requiring customers to pay at the time of sale, a business may let the customers to pay in the future.  Such expected collections in the future result in an Accounts Receivable to the company.  An accounts receivable is as much an asset as cash to the business enterprise.  And the revenue from the sale of the service or good on credit is realized and recorded on the date of sale with out waiting for the collection of the cash.
+
+Transaction (6 )-   Recording Expenses
+To generate revenue, Effective Garage has to hire employees and pay salary, it has to consume electric power and water resource and pay the bill, and so forth.  The amounts of such cash payments and using up of supplies are expenses to the business.  That is, an expense is the amount of assets consumed or services used in the process of generating revenue.  Just as revenues are recorded when they are earned, expenses are recorded when they are incurred (i.e. when the obligation to pay them arises).
+
+During the month of September, Effective Garage paid Birr 15,000 for different types of expenses (birr 10,000 to salary of employees, birr 3000 Telephone, birr 1,500 for rent, and birr 500 for advertisement).
+
+The effect of these transactions is to decrease assets (because cash is paid) and decrease owners equity.  This can be stated on the accounting equation as follows:
+
+           	Assets______ 	                             = Liability         +        Owners Equity
+         Cash    +     Supplies     +     Land        Accounts payable       Dawit Gem, Captal
+Bal Br108, 500     Br. 2,500        Br.20,000     Birr 1,000                    Birr 130,000
+	   -15,000            -                      -                  __-___                            -15,000___
+Bol. Br. 93,500     Br.2,500        Br.20,000      Birr 1,000                    Birr 115,000
+                           Birr 116,000                                             Birr 116,000
+
+Transaction  7 Owners Withdrawal
+Ato Dawit Gemechu, the owner, withdrew Birr 3000 for his personal from the business.  Such assets taken out of the business for the owners personal use, by the owner are called withdrawals.  Owners can withdraw in cash or in kind. For example, an owner of a super market can withdraw soap or something for his personal benefit instead of cash.  
+
+The effect of the transaction in our case is to decrease assets as cash is taken out, and decrease owners Equity by the same amount.  This can be stated on the accounting equation as follows:
+           	Assets______ 	                             = Liability         +        Owners Equity
+         Cash    +     Supplies     +     Land        Accounts payable       Dawit Gem, Captal
+Bal Br 93, 500     Br. 2,500        Br.20,000     Birr 1,000                    Birr 115,000
+	   -3,000            -                      -                  __-___                              -3,000___
+Bol. Br. 90,500     Br.2,500        Br.20,000      Birr 1,000                    Birr 112,000
+                           Birr 113,000                                             Birr 113,000
+Summary
+The transactions of Effective Garage can be summarized in a tabular form as shown below.  Number identifies the transactions here and the balance of each item is shown after each transaction.
+       	Assets______ 	                             = Liability         +        Owners Equity
+
+Tra. No	
+        
+ Cash   +	
+
+Supplies +	
+
+Land	
+Accounts 
+Payable	
+Dawit Gem. Capital	Type of owners Transaction
+1	+100,000	       -	     -	       -	 + 100,000	Owners Investment      
+Bal	Birr 100,000	-	-	-	Birr 100,000	
+2	-20,000	-	+ 20,000	-	-	
+Bal	Birr 80,000	-	Birr 20,000	-	Birr 100,000	
+3	-	+2500		+2500		
+Bal	Birr 80,000	Birr 2,500	Birr 20,000	Birr2500	Birr 100,000	
+4	-1,500	-		-1500		
+Bal	Birr 78,500	Birr 2,500	Birr 20,000	Birr1,000	Birr 100,000	
+5	+ 30,000	-	-	-	+ 30,000	Service fee
+Bal	Birr 108,500	Birr 2,500	Birr 20,000	Birr1,000	Birr 100,000	
+6	-15,000	-	-	-	-10,000
+-3000	Salary Exp.
+Teleph. Exp
+	-	-	-	-	-1500
+-500	Rent Exp.
+Adv. Exp.
+Bal	Birr 93,500	Birr 2500	Birr 20,000	Birr 1000	Birr 115,000	
+7	-3,000	-	-	-	-3000	Owners withdrowal
+Bal	Birr 90,500	Birr 2500	Birr 20,000	Birr 1,000	Birr 112,000	
+	Total Assets =Birr 113,000	Total Liabilities and Owners Equity = Birr 113,000
+
+The following Observations, which apply to all types of Businesses, should be noted:
+1.The effect of every transaction can be stated in terms of increases and /or decreases in one or more of the elements of the accounting equation.
+2.The equality of the two sides of the accounting equation is always maintained.
+3.The owners investment and revenues increase the owners equity. Withdrawals and expenses during the period decrease the owners equity. The effect of these four types of transactions on owners equity can be illustrated as follows:
+
+The relationship of the above elements and their effect on the capital balance can be shown as:
+	EC =  BC + I  W + R - E
+	Where:    EC    End Capital Balance
+		    BC  -  Beginning Capital Balance.
+		      I   -   Owners Investment
+                      W  -  Owners Withdrawals
+                       R   -  Revenue
+                       E   -   Expense.  
+
+
+
+1.8Financial Statements of sole Proprietorships
+
+After the effect of the individual transactions has been determined, the essential information is communicated to users at certain intervals.  The accounting reports, which communicate this information, are called financial statements.  Financial statements are said to be the central features of accounting because they are the primary means of communicating important accounting information to users.
+
+Financial statements are the means of transferring the concise picture of the profitability and financial position of the business to interested parties.
+
+The major financial statements used to communicate accounting information about a business are:  
+-Statement of profit or loss and Other Comprehensive Income 
+-Statement of financial position 
+-Statement of change in  Equity
+-Statement of cash flows (will be discussed in senior courses)
+
+Since these financial statements are in a sense the end products of the accounting process, a student who acquires a clear under standing of the content and meaning of financial statements will be in an excellent position to appreciate the purpose of the earlier steps of recording and classifying business transactions.
+
+1.8.1. Statement of profit or loss and Other Comprehensive Income 
+
+The income statement is a financial statement that summarizes the amount of revenues earned and expenses incurred by a business over a period of time.  It reports the profitability of the business by comparing revenues and expenses for a stated period of time such as a month or a year. In accounting profitability is measured for a period of time than on a daily basis.  Though measuring daily could be possible, it will not be practical and beneficial to the business enterprise. 
+
+If the revenue of a period exceeds the expenses of that same period, net income results. If expenses are greater than the revenues of a period, we say there is a net loss, that is, the business has operated unprofitably.
+
+N.B.  The determination of periodic net income (net loss) is a matching process involving two steps.  First revenues earned are recognized during the period.  Second, the expenses incurred to generate revenues are matched (compared) against revenues to determine net income or net loss.
+
+All financial statements have a heading that you can find in any kind of a report. The heading of these statements identifies the company, the type of statement, and the time period covered by the statement. Note that the primary focus of the income statement is reporting the success or profitability of the companys operations over a specified period of time.  To indicate that it applies for a period of time, the income statement is dated For the month ended 
+The following is an income statement for Effective Garage for the month ended September 30, 200x.
+                                               Effective Garage
+                                             Statement of profit or loss
+                                   For the Month Ended September 30,200x
+Revenues:
+	Service Fee							Birr 30,000.00
+Expenses:
+	Salary Expense			Birr 10,000.00
+	Telephone Expense			         3,000.00
+	Rent Expense			         1,500.00
+	Advertising Expense		            500.00		        
+		Total Expenses					        15,000.00
+Net Income								Birr 15,000.00
+
+1.8.2. Statement of change in Equity
+
+This is a statement that summarizes the changes in owners equity for a specific period of time.  Data for the preparation of owners equity statement are obtained from the owners equity column of the tabular summary (Illustration 1- ) and from the income statement.  The heading of this statement identifies the company, the type of statement, and the time period covered by the statement.  The time period is the same as that covered by the income statement and therefore is dated  For the Month Ended September 30, 200x.  The beginning owners equity amount is shown on the first line of the statement.  Then, the owners investments, net income and the owners drawings are identified in the statement.
+
+The information provided by this statement indicates the reasons why owners equity has increased or decreased during the period.  The Owners equity statement for effective Garage for the month of September is shown below:
+
+                                                    Effective Garage
+                                           Statement of change in Equity
+                                   For the Month ended September 30,200x
+
+Dawit G. Capital, September 1Birr      -0-
+Add:  InvestmentsBirr 100,000.00
+	Net income15,000.00            115,000.00
+									          115,000.00
+Less:   Drawings3,000.00
+Dawit G. Capital, September 30   Birr 112,000.00   
+
+
+
+
+
+
+
+1.8.3. Statement of Financial Position 
+
+The balance sheet, sometimes called the statement of financial Position, lists the companys assets, liabilities and owners equity as of a specific date- usually at the end of a month or year.  
+
+Shown below is the balance sheet for Effective Garage as of September 30, 200x.  The balance sheet heading contains the name of the company, the type of statement, and the specific date on which assets; liabilities and owners equity are identified and measured.
+
+The total assets must equal the total liabilities and owners equity. There are tow commonly used formats of the balance sheet:
+
+The account format
+
+Which lists assets on the left side and equities (i.e. liability and owners equity) on the right side.  It resembles a basic accounting format called an account to be introduced in unit 2.  
+	Heading
+
+Assets	Liability
+
+Owners Equity
+
+
+The Report Format 
+-Lists assets, Liability and Owners equity vertically
+
+	Heading
+Assets
+
+Liability
+
+Owners Equity
+
+
+You can choose either of the two formats for your balance sheet preparation.
+
+The following is a balance sheet prepared for effective Garage based on the sample transactions illustrated in the chapter.
+                                                        Effective Garage
+                                               Statement of Financial position 
+                                                       September 30,200x
+
+Assets
+CashBirr 90,500.00
+Supplies2,500.00
+Land20,000.00
+
+                              _________
+Total Assets..113,000.00	Liability
+Accounts payable    Birr 1,000.00
+Owners Equity
+Ato Dawit Gem., Capital   Br12,000.00. 
+Total Liabilities and 
+Owners equity...Birr 113,000.00
+
+
+The double line is drawn only when the total assets on the left side are equal to total liabilities and Owners equity.  In the Effective Garage illustration, only one liability- accounts payable- is reported on the balance sheet.  In most cases, there will be more than one liability.  When two or more liabilities are involved, a customary way of listing is as follows:
+
+				Liabilities
+Notes payable  		Birr 10,000.00
+Accounts Payable		        1,000.00
+Salaries Payable		        2,000.00
+	Total Liabilities	Birr 13,000.00
+
+Each statement provides management, owners, and other interested parties with relevant financial data.  The financial statements are interrelated: (1) Net income of Birr.  15,000 shown on the income statement is added to the beginning balance of owners capital in the owners equity statement.  (2) Owners capital of Birr 112,000 at the end of the reporting period shown in the Owners equity statement is reported on the balance sheet as the Dawit G/M. capital balance.
+
+Be sure to carefully examine the format and content of each statement.

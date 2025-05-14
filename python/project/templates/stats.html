@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Detailed Statistics</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Corpus Statistics</h1>
+
+        <div class="stats-section">
+            <h2>Basic Statistics</h2>
+            <p>Number of Index Terms: {{ stats.num_terms }}</p>
+            <p>Total Documents: {{ total_docs }}</p>
+            <a href="/" class="back-btn">Return to Search</a>
+        </div>
+
+        <div class="stats-section">
+            <h2>Document Lengths</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Document</th>
+                        <th>Length</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for filename, length in stats.doc_lengths.items() %}
+                    <tr>
+                        <td>{{ filename }}</td>
+                        <td>{{ length }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <div class="stats-section">
+            <h2>TF-IDF Weights</h2>
+            {% for i in range(stats.filenames|length) %}
+            <div class="document-weights">
+                <h3>{{ stats.filenames[i] }}</h3>
+                <table>
+                    <tr>
+                        <th>Term</th>
+                        <th>TF</th>
+                        <th>IDF</th>
+                        <th>TF-IDF</th>
+                    </tr>
+                    {% for term in stats.index_terms %}
+                    {% if stats.tfidf[i][term] > 0 %}
+                    <tr>
+                        <td>{{ term }}</td>
+                        <td>{{ stats.tf[i][term] }}</td>
+                        <td>{{ "%.4f"|format(stats.idf[term]) }}</td>
+                        <td>{{ "%.4f"|format(stats.tfidf[i][term]) }}</td>
+                    </tr>
+                    {% endif %}
+                    {% endfor %}
+                </table>
+            </div>
+            {% endfor %}
+        </div>
+
+
+    </div>
+</body>
+</html>

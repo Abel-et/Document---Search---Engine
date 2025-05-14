@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Search Results for: "{{ query }}"</h1>
+
+        <div class="stats">
+            <p>Index Terms: {{ stats.num_terms }}</p>
+            <p>Documents Processed: {{ total_docs }}</p>
+        </div>
+
+        <div class="results">
+            <h2>Ranked Documents:</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th>Document</th>
+                        <th>Similarity</th>
+                        <th>Download</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for doc_idx, sim in results %}
+                    <tr>
+                        <td>{{ loop.index }}</td>
+                        <td>{{ stats.filenames[doc_idx] }}</td>
+                        <td>{{ "%.4f"|format(sim) }}</td>
+                        <td><a href="/download/{{ stats.filenames[doc_idx] }}" class="download-btn">Download</a></td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <div class="additional-info">
+            <div class="document-lengths">
+                <h3>Document Lengths</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Document</th>
+                            <th>Length</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for filename, length in stats.doc_lengths.items() %}
+                        <tr>
+                            <td>{{ filename }}</td>
+                            <td>{{ length }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="query-stats">
+                <h3>Query Statistics</h3>
+                <p>Processed Query Terms: {{ preprocessed_query|join(', ') }}</p>
+            </div>
+        </div>
+
+        <div class="stats-link">
+            <a href="/stats" class="stats-btn">View Detailed Corpus Statistics</a>
+        </div>
+
+        <a href="/" class="back-btn">New Search</a>
+    </div>
+</body>
+</html>

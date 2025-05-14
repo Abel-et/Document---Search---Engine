@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Document Search</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Document Search Engine</h1>
+        <form action="/search" method="post">
+            <div class="search-box">
+                <input type="text" name="query" placeholder="Enter your search query..." required>
+                <button type="submit">Search</button>
+            </div>
+        </form>
+            <div class="stats-link">
+            <a href="/stats" class="stats-btn">View Detailed Corpus Statistics</a>
+        </div>
+
+    </div>
+</body>
+</html>
